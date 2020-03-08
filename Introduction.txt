@@ -1,0 +1,7 @@
+A comparison of traffic levels in the Metro city (Chennai) and Non metro (Bengaluru)
+
+Introduction / Business problem
+
+In India, when comparing with metro cities like chennai , mumbai etc Bengaluru is having high traffic congestion, inspite of having few major industries hosted there. This tremendrous traffic congestion raised since IT emerged in bengaluru city. 
+
+This investigation is about the analysis of clusters alongside other datas such as population density in order to come up with the conclusion regarding the traffic congestions in bengaluru and other metro cities like chennai. 
